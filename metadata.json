@@ -1,0 +1,6 @@
+{
+  "name": "Microsoft Learning Path Tracker",
+  "description": "Full-stack Microsoft certification and learning path tracker with deterministic prerequisite computation, liquid glass visual hierarchy, and Gemini-powered next-step rationale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
