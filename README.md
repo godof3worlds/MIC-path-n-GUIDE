@@ -1,4 +1,13 @@
+
+
+NOTE: BEFORE START :
+                THE MIC PYTON has the python version of the app, less power full
+
+                the other stuff is code for the web app
+
 # Microsoft Learning Path Tracker (Interactive Azure Certification Roadmap)
+
+WEB APP LINK: https://microsoft-learning-path-tracker.ai.studio
 
 A modern, high-performance web application and career roadmapping platform designed to help engineers, architects, and technical leaders navigate Microsoft certification paths (Azure, AI, Security, Data, DevOps, Power Platform). Built with a liquid-glass aesthetic, multi-tier server-side AI reasoning, Google authentication, digital trophy badges, a high-resolution certificate generator, and persistent cloud synchronization.
 
