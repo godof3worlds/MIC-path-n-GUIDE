@@ -66,7 +66,7 @@ const NVIDIA_NIM_MODELS = [
  * Call NVIDIA NIM OpenAI-compatible API endpoint as secondary failover
  */
 async function callNvidiaNim(prompt: string): Promise<{ text: string; model: string } | null> {
-  const apiKey = process.env.NVIDIA_API_KEY || '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';
+  const apiKey = process.env.NVIDIA_API_KEY;
   if (!apiKey) return null;
 
   for (const nimModel of NVIDIA_NIM_MODELS) {
